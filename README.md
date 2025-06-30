@@ -24,7 +24,7 @@ The analysis is broken down into two main components:
 
 2. **A/B Test Trial Assessment:** A statistical evaluation of a three-month trial involving a new store layout to measure its impact on sales and customer traffic.
 
-The presentation report for stakeholder review is available here. [link](Documents\Retail_analysis_Report.pdf)
+The presentation report for stakeholder review is available here. [link](Documents/Retail_analysis_Report.pdf)
 
 The Python code used to inspect and clean the data for this analysis can be found here [link](Data_cleaning.ipynb).
 
