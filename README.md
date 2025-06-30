@@ -11,7 +11,7 @@ _**Author**: Thu Pham | **Date**: 06/2025_
 
 ## _**1. Project Backround**_
 
-*This repository presents an independent, hypothetical data analysis project inspired by the Quantium Data Analyst virtual experience on Forage.*
+    This repository presents an independent, hypothetical data analysis project inspired by the Quantium Data Analyst virtual experience on Forage.
 
 This project provides a strategic analysis for our client, **GetMart**, a mid-sized supermarket chain known for its focus on providing value to local communities. In preparation for the upcoming fiscal year, the GetMart Chip Category Manager requires a data-driven strategy to increase sales and better understand their customer base.
 
