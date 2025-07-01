@@ -1,4 +1,4 @@
-# **GetMart Retail Strategy: Chip Category Analysis**
+# **GetMart Chip Category Strategy: An Analysis of Customer Behavior and Trial Performance**
 _**Author**: Thu Pham | **Date**: 06/2025_
 
 ## *Table of Contents*
@@ -104,7 +104,7 @@ To ensure a fair assessment, a unique control store was selected for each trial 
 
 ![Pre-trial Trend Comparison (Example: Store 77 vs 233)](Images/pretrial_comparison_77vs233.png)
 
-The assessment of the trial's success was determined through a two-step statistical method:
+The assessment of the trial's success was determined through _**a two-step statistical method**_:
 
 1. **Scaling and Percentage Difference:** A scaling factor was applied to the control store's data to create a normalized baseline. Each month, the trial store's performance was compared to a scaled control baseline derived from pre-trial data.
 
@@ -114,9 +114,9 @@ The assessment of the trial's success was determined through a two-step statisti
 
 | Trial Store | Control Store | Result            | Sales Performance                                                                                      | Customer Traffic                                                                                           | Conclusion                                                                                                                       |
 |-----------|--------------|-------------------|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| **77**          | **233**            | **Successful Uplift** | Up to **+24.7% uplift in March and +56% in April** compared to scaled control store.                              | Up to **+24.7%** growth in customer numbers—strong attraction to the new placement.                         | Significant growth in **both sales and traffic**—a clear success.                                                                |
-| **88**          | **237**            | **Successful Uplift** | Up to **+22.1% uplift in March and +19.3% in April** vs. expected baseline.                              | Over **+13.3%** increase in March—placement effectively drew more traffic.                                  | Successfully boosted **sales revenue and customer numbers**.                                                                    |
-| **86**          | **155**            | **Mixed Results**     | Inconsistent uplift—March spike noted **(+31.6%)**, but overall increase not statistically significant.              | Up to **+22.3%** growth in customer traffic throughout the period.                                          | Traffic did not consistently convert to sales—suggests other factors like **demographics/product mix** impacted performance.     |
+| **77**          | **233**            | **Successful Uplift** | Up to **+24.7% uplift in March and +56% in April** compared to scaled control store.                              | Up to **+24.7% growth** in customer numbers—strong attraction to the new placement.                         | Significant growth in **both sales and traffic**—a clear success.                                                                |
+| **88**          | **237**            | **Successful Uplift** | Up to **+22.1% uplift in March and +19.3% in April** vs. expected baseline.                              | Over **+13.3% increase in March**—placement effectively drew more traffic.                                  | Successfully boosted **sales revenue and customer numbers**.                                                                    |
+| **86**          | **155**            | **Mixed Results**     | Inconsistent uplift—March spike noted **(+31.6%)**, but overall increase not statistically significant.              | Up to **+22.3% growth** in customer traffic throughout the period.                                          | Traffic did not consistently convert to sales—suggests other factors like **demographics/product mix** impacted performance.     |
 
 ![Trial Results of store 77 and store 88](Images/succes_trial_result.png)
 #### 4.2.3. Results Analysis
@@ -167,3 +167,12 @@ The following assumptions and limitations should be considered when interpreting
 - **External Factors:** The conclusions do not account for external factors that could influence purchasing behavior, such as competitor promotions, local events, or broader economic trends.
 - **Trial Generalizability:** The trial was conducted in three specific stores. While the results are significant, rolling out the changes to stores with vastly different demographic profiles may yield different results, which is why a phased rollout is recommended.
 
+## _**End of documents**_
+Thank you for reviewing this GetMart Chip Category Analysis. I hope the insights and recommendations provided offer a clear, data-driven understanding of the category's current state and actionable strategies for future growth.
+
+For any questions, further discussions, or to connect, please feel free to reach out:
+- **Email:** thuanhpham.da@gmail.com
+- **LinkedIn:** [Link to My LinkedIn Profile](www.linkedin.com/in/pham-anh-thu)
+- **Other Projects:** Explore my other data analytics projects on [GitHub](https://github.com/Lily-ThuPham/GetMart_ChipCategory_Analysis)
+
+Your feedback is highly valued!
