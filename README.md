@@ -173,6 +173,6 @@ Thank you for reviewing this GetMart Chip Category Analysis. I hope the insights
 For any questions, further discussions, or to connect, please feel free to reach out:
 - **Email:** thuanhpham.da@gmail.com
 - **LinkedIn:** [Link to My LinkedIn Profile](www.linkedin.com/in/pham-anh-thu)
-- **Other Projects:** Explore my other data analytics projects on [GitHub](https://github.com/Lily-ThuPham/GetMart_ChipCategory_Analysis)
+- **Other Projects:** Explore my other data analytics projects on **[GitHub](https://github.com/Lily-ThuPham)**.
 
 Your feedback is highly valued!
