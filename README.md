@@ -14,6 +14,8 @@ _**Author**: Thu Pham | **Date**: 06/2025_
 
     This repository presents an independent, hypothetical data analysis project inspired by the Quantium Data Analyst virtual experience on Forage.
 
+![Report Cover](Images/Presentation1.png)
+
 This project provides a strategic analysis for our client, **GetMart**, a mid-sized supermarket chain known for its focus on providing value to local communities. In preparation for the upcoming fiscal year, the GetMart Chip Category Manager requires a data-driven strategy to increase sales and better understand their customer base.
 
 This analysis uses **12 months of transactional data to uncover key insights**. The core of the analysis focuses on customer segmentation and an A/B test evaluation, measured through key business metrics including _**Total Sales, Number of Customers, Number of Transactions, and Average Transaction Value**_. The goal is to identify high-value customer segments and validate strategic initiatives that can be implemented to drive growth in the chip category.
