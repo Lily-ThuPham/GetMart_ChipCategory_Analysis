@@ -4,7 +4,7 @@ _**Author**: Thu Pham | **Date**: 06/2025_
 ## *Table of Contents*
 
 1. [Project Background](#1-project-background)  
-2. [Data Structure & Initial Checks](#2-data-structure-and-initial-checks)  
+2. [Data Structure and Initial Checks](#2-data-structure-and-initial-checks)  
 3. [Executive Summary](#3-executive-summary)  
 4. [Insights Deep Dive](#4-insights-deep-dive)  
 5. [Recommendations](#5-recommendations) 
@@ -34,7 +34,7 @@ The Python code used to conduct deep-dive analysis on customer segmentations can
 
 The Python code used to conduct the A/B Store Trial assessment can be found here [link](Trial_assessment.ipynb).
 
-## _**2. Data Structure and Initial Check**_
+## _**2. Data Structure and Initial Checks**_
 The analysis is based on two primary datasets provided by GetMart,`transaction_data`, `purchase_behaviour`, which were then used to create a third, normalized product table. A description of each table is as follows:
 
 - **`transaction_data`:** This is a large dataset with over _**264,000 rows**_, where each row represents a chip purchase transaction. It covers the period _**from July 2018 to June 2019**_ and includes details for each unique transaction (`TXN_ID`), such as the quantity and value of chips purchased, and the customer's loyalty card ID.
