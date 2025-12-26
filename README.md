@@ -4,13 +4,13 @@ _**Author**: Thu Pham | **Date**: 06/2025_
 ## *Table of Contents*
 
 1. [Project Background](#1-project-background)  
-2. [Data Structure & Initial Checks](#2-data-structure--initial-checks)  
+2. [Data Structure & Initial Checks](#2-data-structure-and-initial-checks)  
 3. [Executive Summary](#3-executive-summary)  
 4. [Insights Deep Dive](#4-insights-deep-dive)  
 5. [Recommendations](#5-recommendations) 
 6. [Assuptions & Caveats](#6-assumptions--caveats)
 
-## _**1. Project Backround**_
+## _**1. Project Background**_
 
     This repository presents an independent, hypothetical data analysis project inspired by the Quantium Data Analyst virtual experience on Forage.
 
@@ -51,7 +51,7 @@ The core recommendation is to **implement a dual-strategy focusing on two keys, 
 
 - **Trial Validation**: A three-month in-store trial, which moved the chip category to a prominent end-cap, was a success. It **drove a statistically significant increase in both sales and customer traffic** in _two of the three trial stores_, validating that strategic changes to store layout can effectively boost performance.
 
-## _**4. Insights and Deepdive**_
+## _**4. Insights Deep dive**_
 ### **4.1. Customer Analytics: Who Are Our Most Valuable Segments?**
 A deep dive into customer purchasing patterns revealed that the chip category is a mature market driven by specific, high-value customer segments with distinct brand preferences.
 #### 4.1.1. Overall Market trend
